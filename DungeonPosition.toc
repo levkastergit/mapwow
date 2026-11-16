@@ -1,0 +1,9 @@
+## Interface: 16001
+## Title: DungeonPosition
+## Notes: Small map window that shows your position inside dungeons.
+## Notes-ruRU: Окно карты, которое показывает ваше местоположение в подземелье.
+## Version: 1.0.0
+## SavedVariables: DungeonPositionDB
+
+DungeonPosition.xml
+DungeonPosition.lua
